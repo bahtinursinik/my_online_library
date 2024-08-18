@@ -1,0 +1,29 @@
+{
+    "language":"English",
+    "detail":"Detail",
+    "changeLanguage" : "Change Language",
+    "turkish": "Turkish",
+    "english": "English",
+    "settings": "Settings",
+    "themeMode": "Dark Mode",
+    "favoriteBooks": "My Favorite Books",
+    "noFavoriteBooks": "You haven't added any books yet",
+    "bookDetailTitle": "Detail",
+    "publisherLabel": "Publisher:",
+    "yearLabel": "Year:",
+    "isbnLabel": "ISBN:",
+    "pagesLabel": "Pages:",
+    "villainsTitle": "Villains",
+    "errorLoadingBooks": "Error:",
+    "noDetailsAvailable": "No details available.",
+    "loadingBooks": "Loading books...",
+    "books": "Books",
+    "favorites": "Favorites",
+    "noBooksAvailable": "No books available",
+    "bookListTitle" : "Books List",
+    "search": "Search...",
+    "newFavoriteBook" : "New Favorite Book",
+    "addedNewFavoriteBook":"Added a new favorite book:"
+
+ 
+}

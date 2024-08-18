@@ -1,0 +1,28 @@
+{
+    "language" : "Türkçe",
+    "detail": "Detay",
+    "changeLanguage":"Dil Seçimi",
+    "turkish": "Türkçe",
+    "english": "İngilizce",
+    "settings": "Ayarlar",
+    "themeMode":"Koyu mod",
+    "favoriteBooks":"Beğendiğim Kitaplarım",
+    "noFavoriteBooks":"Henüz kitap eklemediniz",
+    "bookDetailTitle": "Detay",
+    "publisherLabel": "Yayınevi:",
+    "yearLabel": "Yıl:",
+    "isbnLabel": "ISBN:",
+    "pagesLabel": "Sayfa Sayısı:",
+    "villainsTitle": "Kötü Karakterler",
+    "errorLoadingBooks": "Hata:",
+    "noDetailsAvailable": "Detay mevcut değil.",
+    "loadingBooks": "Kitaplar yükleniyor...",
+    "books": "Kitaplar",
+    "favorites": "Favoriler",
+    "noBooksAvailable": "Kitap mevcut değil",
+    "bookListTitle" : "Kitaplar Listesi",
+    "search": "Ara...",
+    "newFavoriteBook": "Yeni Favori Kitap",
+    "addedNewFavoriteBook": "Yeni bir favori kitap eklendi:"
+  
+}

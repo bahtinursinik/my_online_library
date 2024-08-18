@@ -1,0 +1,55 @@
+name: my_online_library
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter  # Flutter SDK
+  flutter_localizations:
+    sdk: flutter  # Flutter's localization support
+  flutter_bloc: ^8.1.1  # BLoC (Business Logic Component) library
+  http: ^1.2.2  # For making HTTP requests
+  json_annotation: ^4.7.0  # For JSON data handling annotations
+  equatable: ^2.0.0  # For object equality comparison
+  bloc:  # Core library for BLoC architecture (version not specified)
+  intl: ^0.18.0  # For internationalization and localization
+  hive: ^2.2.3  # Local database solution Hive
+  hive_flutter: ^1.1.0  # Integration of Hive with Flutter
+  shared_preferences:  # For simple key-value local storage (version not specified)
+  flutter_local_notifications: ^17.2.2  # For displaying local notifications
+  timezone: ^0.9.4  # For timezone support
+  mockito: ^5.4.4  # For creating mock objects in tests
+  cupertino_icons: ^1.0.6  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter  # For Flutter application testing
+  build_runner: ^2.3.0  # For code generation and automatic code creation
+  json_serializable: ^6.5.0  # For JSON serialization and deserialization
+  intl_utils: ^2.8.7  # For automating internationalization tasks
+  hive_generator: ^2.0.1  # Code generator for Hive
+  flutter_lints: ^3.0.0  # Lint rules for Flutter projects
+  flutter_launcher_icons: ^0.10.0  # For automatically generating app icons
+
+
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/logo-dark.png
+    - assets/languages/en.json
+    - assets/languages/tr.json
+    - assets/images/icon.png
